@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This immense application will tell you whether it's winter or summer, RIGHT NOW!
+
+
 ## Available Scripts
 
 In the project directory, you can run:
